@@ -4,7 +4,7 @@
     object-fit: cover;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 459px) {
     .photo-grid__item {
         max-width: 288px;
     }

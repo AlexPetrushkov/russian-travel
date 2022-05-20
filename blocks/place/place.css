@@ -27,13 +27,19 @@
 
 @media screen and (max-width: 767px) {
     .place {
+        column-gap: 28px;
+        margin-top: 73px;
+        grid-template-columns: repeat(2,minmax(min-content, 1fr));
+    }
+}
+
+@media screen and (max-width: 459px) {
+    .place {
         grid-template-columns: 1fr;
         row-gap: 32px;
         width: 100%;
         margin-top: 50px;
         object-fit: cover;
-        min-width: fit-content;
-        min-height: fit-content;
     }
 
     .place:last-of-type .place__paragraph {
