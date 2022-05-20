@@ -1,0 +1,7 @@
+.header__links {
+    list-style-type: none;
+    display: flex;
+    text-align: right;
+    align-items: center;
+    margin: 18px 0 0 0;
+}
