@@ -5,4 +5,5 @@
 
 ### Планы по доработке
 * Сделать английскую версию сайта.
-Ссылка на проект: https://alexpetrushkov.github.io/russian-travel/
+
+* Ссылка на проект: https://alexpetrushkov.github.io/russian-travel/
