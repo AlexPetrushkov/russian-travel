@@ -1,10 +1,13 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
+
+/*Блок Page*/
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__footer/page__footer.css);
 
 /*Блок Header*/
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__items/header__items.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -59,7 +62,6 @@
 
 /*Блок footer*/
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__items/footer__items.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__item/footer__item.css);
 @import url(../blocks/footer/__link/footer__link.css);

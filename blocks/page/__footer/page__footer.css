@@ -1,15 +1,15 @@
-.footer__items {
+.page__footer {
     margin: 92px auto 24px;
 }
 
 @media screen and (max-width: 1023px) {
-    .footer__items {
+    .page__footer {
         margin: 88px auto 24px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .footer__items {
+    .page__footer {
         margin: 64px auto 24px;
     }
 }

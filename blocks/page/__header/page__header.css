@@ -1,9 +1,9 @@
-.header__items {
+.page__header {
     margin: 28px auto 0;
 }
 
 @media screen and (max-width: 424px) {
-    .header__items {
+    .page__header {
         margin: 16px auto 0;
     }
 }
